@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Memory Game
 
 We just wanted a simple memory game for kids 4+ age. No ads, no complicated screens, but a straightforward nice looking, working and open source game.
@@ -39,3 +40,7 @@ If you have more ideas or you want to add more options / themes / sounds or what
 
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/snatik/memory-game)
 [![Twitter Follow](https://img.shields.io/twitter/follow/snatikteam.svg?style=social)](https://twitter.com/snatikteam)
+=======
+# Pict-Matching-Game
+Android Game
+>>>>>>> 1322441482c3fe608fd16ce967eb0b3810f4f034
